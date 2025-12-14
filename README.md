@@ -112,7 +112,7 @@ The system operates on a **Hub-and-Spoke model** governed by a Main Orchestrator
 
 ---
 
-## 🔮 Future Roadmap (TenderOS™)
+## 🔮 Future Roadmap (Stratabid™)
 * **Universal Ingestion:** OCR integration for parsing Engineering Drawings and scanned PDFs.
 * **RLHF Feedback Loop:** A Feedback Agent that learns from human overrides to improve scoring weights.
 * **Supply Chain Bot:** Autonomous RFQ generation to sub-suppliers when stock is low.
