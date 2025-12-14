@@ -36,7 +36,7 @@ We replaced the linear manual workflow with a parallel **Team of Agents**:
 ---
 
 ## 🏗️ Architecture
-*(Place your generated architecture image here, e.g., assets/architecture.png)*
+
 
 The system operates on a **Hub-and-Spoke model** governed by a Main Orchestrator.
 1.  **Input:** Unstructured Text/JSON from RFP.
