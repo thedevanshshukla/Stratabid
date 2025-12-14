@@ -11,7 +11,7 @@
 ---
 
 ## 📋 Executive Summary
-**Stratabid** (formerly Project TenderOS) is an Agentic AI system designed to automate the processing of complex B2B Requests for Proposals (RFPs), specifically for the Wires & Cables industry. 
+**Stratabid** is an Agentic AI system designed to automate the processing of complex B2B Requests for Proposals (RFPs), specifically for the Wires & Cables industry. 
 
 Unlike standard GenAI wrappers that hallucinate prices or specifications, Stratabid uses a **Hybrid Architecture** combining **Vector Search (Semantic)** with **Rule-Based Scoring (Engineering Strictness)**. It autonomously parses RFPs, matches SKUs, calculates pricing against real-time inventory, and validates safety rules—reducing bid turnaround time by **80%** while ensuring 100% technical compliance.
 
